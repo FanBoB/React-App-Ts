@@ -1,6 +1,6 @@
 ## 依赖
 
-> [React](https://reactjs.org/) + [TS](https://www.typescriptlang.org/) + [Ant Design Mobile](https://mobile.ant.design/) + [Emotion](https://emotion.sh/)
+> [React](https://reactjs.org/) + [TS](https://www.typescriptlang.org/) + [Emotion](https://emotion.sh/)
 
 ## 本地开发
 
